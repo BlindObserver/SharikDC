@@ -9,4 +9,4 @@ https://play.google.com/store/apps/details?id=sharikdc.sharikdc
 
 Version history:
 
-1.0.0. OpenSSL 1.0.2k. icu 58 
+30.03.17: v1.0.0. OpenSSL 1.0.2k. icu 58.
