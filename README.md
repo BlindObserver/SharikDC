@@ -9,6 +9,7 @@ https://play.google.com/store/apps/details?id=sharikdc.sharikdc
 
 Version history:
 
+24.06/17 v 1.0.1 : OpenSSL 1.0.2l. icu 58. miniupnpc v1.227 2017/05/09
 30.03.17: v1.0.0. OpenSSL 1.0.2k. icu 58.
 
 
